@@ -217,5 +217,3 @@ ssh esparks-lan
 - Client has simple aliases in `~/.ssh/config`.
 - Firewall and Fail2Ban block brute-force attempts.
 - Both LAN IP and public domain access are configured.
-
-👉 Do you want me to save this guide into a PDF or Markdown file so you can keep it as a reference document?
