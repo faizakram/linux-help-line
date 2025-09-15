@@ -48,7 +48,7 @@ This installs the **pandas** library system-wide from the Ubuntu repositories.
 
 ## 4. Download/Prepare the Script
 
-Save the script `csv_to_ai_talent_json.py` somewhere on your system, e.g.:
+Save the script `csv_to_json.py` somewhere on your system, e.g.:
 
 ```bash
 /home/<your-username>/csv_to_ai_talent_json.py
