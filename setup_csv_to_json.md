@@ -51,13 +51,13 @@ This installs the **pandas** library system-wide from the Ubuntu repositories.
 Save the script `csv_to_json.py` somewhere on your system, e.g.:
 
 ```bash
-/home/<your-username>/csv_to_ai_talent_json.py
+/home/<your-username>/csv_to_json.py
 ```
 
 Make it executable (optional):
 
 ```bash
-chmod +x csv_to_ai_talent_json.py
+chmod +x csv_to_json.py
 ```
 
 ---
@@ -66,7 +66,7 @@ chmod +x csv_to_ai_talent_json.py
 
 ### Default usage:
 ```bash
-python3 csv_to_ai_talent_json.py "AI Profiles for Talent Hub(AI_Talent_Database).csv"
+python3 csv_to_json.py "AI Profiles for Talent Hub(AI_Talent_Database).csv"
 ```
 
 This generates:
@@ -76,7 +76,7 @@ AI Profiles for Talent Hub(AI_Talent_Database).json
 
 ### Specify custom output file:
 ```bash
-python3 csv_to_ai_talent_json.py input.csv output.json
+python3 csv_to_json.py input.csv output.json
 ```
 
 
