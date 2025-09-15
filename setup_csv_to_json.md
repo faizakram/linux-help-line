@@ -1,6 +1,6 @@
 # 📘 Setup Guide: CSV → JSON Converter on Ubuntu (Option 1: System-wide Installation)
 
-This guide explains how to install all dependencies and run the script `csv_to_ai_talent_json.py` 
+This guide explains how to install all dependencies and run the script `csv_to_json.py` 
 to convert AI Talent Hub CSV files into MongoDB-ready JSON.
 
 ---
